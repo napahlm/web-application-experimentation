@@ -23,3 +23,7 @@ app.yaml
 python main.py
 ```
 * Verify by accessing localhost:8080
+
+# Test website
+
+[Cloud-hosted website](https://hello-app-335319.ew.r.appspot.com/)
